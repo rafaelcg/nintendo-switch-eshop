@@ -74,10 +74,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lmmfranco/nintendo-switch-eshop.git"
+    "url": "git+https://github.com/rafaelcg/nintendo-switch-eshop.git"
   },
   "bugs": {
-    "url": "https://github.com/lmmfranco/nintendo-switch-eshop/issues"
+    "url": "https://github.com/rafaelcg/nintendo-switch-eshop/issues"
   },
   "husky": {
     "hooks": {
