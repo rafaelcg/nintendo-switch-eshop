@@ -2,7 +2,7 @@
   "extends": "@favware/ts-config",
   "compilerOptions": {
     "target": "ES6",
-    "lib": ["ESNext"],
+    "lib": ["DOM"],
     "resolveJsonModule": true,
     "importsNotUsedAsValues": "error",
     "isolatedModules": true,
