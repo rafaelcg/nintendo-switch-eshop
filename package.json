@@ -23,7 +23,7 @@
     "@types/country-data": "^0.0.2",
     "country-data": "^0.0.31",
     "fast-xml-parser": "^3.17.4",
-    "node-fetch": "^2.6.1"
+    "cross-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
@@ -32,7 +32,6 @@
     "@favware/ts-config": "^3.0.4",
     "@types/jest": "^26.0.15",
     "@types/node": "^14.14.6",
-    "@types/node-fetch": "^2.5.7",
     "@typescript-eslint/eslint-plugin": "^4.6.0",
     "@typescript-eslint/parser": "^4.6.0",
     "common-tags": "^1.8.0",

@@ -1,4 +1,4 @@
-import fetch from 'node-fetch';
+import fetch from 'cross-fetch';
 import { stringify } from 'querystring';
 import { QUERIED_US_ALGOLIA_KEY, US_ALGOLIA_HEADERS, US_GET_GAMES_URL } from '../utils/constants';
 import type { AlgoliaResponse, QueriedGameUS } from '../utils/interfaces';

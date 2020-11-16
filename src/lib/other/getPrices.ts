@@ -1,4 +1,4 @@
-import fetch from 'node-fetch';
+import fetch from 'cross-fetch';
 import { stringify } from 'querystring';
 import { PRICE_GET_OPTIONS, PRICE_GET_URL, PRICE_LIST_LIMIT } from '../utils/constants';
 import type { PriceResponse, TitleData } from '../utils/interfaces';

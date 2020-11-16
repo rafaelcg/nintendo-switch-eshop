@@ -1,5 +1,5 @@
 import { parse as xml2json } from 'fast-xml-parser';
-import fetch from 'node-fetch';
+import fetch from 'cross-fetch';
 import { JP_GET_GAMES_URL } from '../utils/constants';
 import type { GameJP } from '../utils/interfaces';
 import { EshopError } from '../utils/utils';
