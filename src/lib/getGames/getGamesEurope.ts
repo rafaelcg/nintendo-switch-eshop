@@ -1,4 +1,3 @@
-import fetch from 'cross-fetch';
 import { stringify } from 'querystring';
 import { EU_DEFAULT_LOCALE, EU_GAME_LIST_LIMIT, EU_GET_GAMES_OPTIONS, EU_GET_GAMES_URL } from '../utils/constants';
 import type { EURequestOptions, GameEU } from '../utils/interfaces';

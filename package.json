@@ -20,10 +20,12 @@
     "update": "yarn upgrade-interactive --latest"
   },
   "dependencies": {
+    "@types/axios": "^0.14.0",
     "@types/country-data": "^0.0.2",
+    "axios": "^0.21.0",
     "country-data": "^0.0.31",
     "fast-xml-parser": "^3.17.4",
-    "cross-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
@@ -32,6 +34,8 @@
     "@favware/ts-config": "^3.0.4",
     "@types/jest": "^26.0.15",
     "@types/node": "^14.14.6",
+    "@types/node-fetch": "^2.5.7",
+    "@types/whatwg-fetch": "^0.0.33",
     "@typescript-eslint/eslint-plugin": "^4.6.0",
     "@typescript-eslint/parser": "^4.6.0",
     "common-tags": "^1.8.0",

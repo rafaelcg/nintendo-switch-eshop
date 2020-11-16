@@ -1,4 +1,3 @@
-import fetch from 'cross-fetch';
 import { stringify } from 'querystring';
 import {
   US_ALGOLIA_HEADERS,
